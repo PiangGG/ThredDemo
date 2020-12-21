@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B347DCC5-4576-87CB-A4DF-AEB94B4C6A5B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ThredDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
